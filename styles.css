@@ -149,7 +149,7 @@ body{
     }
 }
 
-@media (max-width: 600px) {
+@media (orientation: portrait) {
     .problem-container {
         height: 60%;
         width: 80%;
@@ -159,7 +159,7 @@ body{
         position: relative;
         height: 30%;
         width: 90%;
-        top: 20%;
+        top: 30%;
     }
 
     .problem-title {
@@ -176,7 +176,7 @@ body{
         position: relative;
         width: 100px;
         height: 25px;
-        top: 15%;
+        top: 20%;
         font-size: 12px;
     }
 }
