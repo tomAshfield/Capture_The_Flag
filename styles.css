@@ -159,7 +159,7 @@ body{
         position: relative;
         height: 30%;
         width: 90%;
-        top: 30%;
+        top: 22%;
     }
 
     .problem-title {
@@ -176,7 +176,7 @@ body{
         position: relative;
         width: 100px;
         height: 25px;
-        top: 20%;
+        top: 15%;
         font-size: 12px;
     }
 }
